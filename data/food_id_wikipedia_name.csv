@@ -1,0 +1,259 @@
+food_id,wikipedia_id
+2.0,Savoy cabbage
+4.0,Kiwifruit
+6.0,Onion
+8.0,Garlic
+11.0,Cashew_nut
+12.0,Pineapple
+15.0,Wild celery
+16.0,Mr. Peanut
+21.0,Asparagus
+22.0,Oat
+23.0,Averrhoa carambola
+25.0,Beet
+27.0,Brassica juncea
+28.0,Rutabaga
+29.0,Rapeseed
+30.0,Brassica_oleracea
+31.0,Cauliflower
+32.0,Brussels sprout
+33.0,Kohlrabi
+34.0,Broccoli
+38.0,Tea
+40.0,Capsicum_annuum
+43.0,Caraway
+44.0,Pecan_nut
+45.0,Chestnut
+47.0,Chickpea
+48.0,Endive
+49.0,Chicory
+50.0,Chinese_cinnamon
+51.0,Cinnamomum_verum
+52.0,Watermelon
+54.0,Lemon
+55.0,Pomelo
+56.0,Mandarin_orange
+57.0,Sweet_orange
+58.0,Coffee
+62.0,Corylus avellana
+63.0,Saffron
+64.0,Muskmelon
+65.0,Cucumber
+67.0,Cumin
+69.0,Quince
+71.0,Artichoke
+72.0,Daucus carota
+73.0,Japanese_persimmon
+77.0,Rocket_(salad)
+78.0,Wax_apple
+79.0,Buckwheat
+81.0,Ficus_carica
+82.0,Fennel
+83.0,Strawberry
+85.0,Soybean
+86.0,Sunflower
+87.0,Hippophae rhamnoides
+88.0,Barley
+92.0,Sweet Potato Pie (album)
+93.0,Black_walnut
+94.0,Juglans regia
+95.0,Lettuce
+96.0,Lathyrus sativus
+98.0,Lentils
+99.0,Garden cress
+101.0,Flax
+103.0,Lichee
+105.0,Apple
+106.0,Mango
+109.0,Mentha
+110.0,Mentha_citrata
+111.0,Mentha arvensis
+112.0,Spearmint
+113.0,Peppermint
+116.0,Mulberry
+117.0,Black_mulberry
+121.0,Olive
+125.0,Rice
+126.0,Millet
+130.0,Avocado
+132.0,Phaseolus_coccineus
+133.0,Phaseolus lunatus
+134.0,Phaseolus_vulgaris
+135.0,Date_(fruit)#Dates
+136.0,Photinia_melanocarpa
+138.0,Pine nut
+139.0,Black pepper
+140.0,Pistachio
+141.0,Pea
+144.0,Apricot
+145.0,Prunus avium
+148.0,Prunus_dulcis
+149.0,Peach
+151.0,Pomegranate
+152.0,Pear
+153.0,Radish
+154.0,Rhubarb
+159.0,Rosemary
+162.0,Red_raspberry
+166.0,Sambucus nigra
+169.0,Rye
+170.0,Sesame
+171.0,Solanum_lycopersicum
+172.0,Cherry tomato
+174.0,Eggplant
+175.0,Potato
+178.0,Spinach
+182.0,Cocoa_bean
+183.0,Thymus vulgaris
+187.0,Common wheat
+191.0,Vaccinium corymbosum
+192.0,Vaccinium macrocarpon
+193.0,Bilberry
+194.0,Vaccinium vitis-idaea
+195.0,Vanilla
+196.0,Verbena officinalis
+197.0,Broad_bean
+199.0,Vigna_mungo
+200.0,Mung bean
+202.0,Cowpea
+204.0,Vitis vinifera
+205.0,Corn
+206.0,Ginger
+208.0,Banana
+213.0,Buffalo_currant
+214.0,Celeriac
+215.0,Apium_graveolens
+219.0,Ginseng
+225.0,Macadamia tetraphylla
+226.0,
+227.0,Vitis aestivalis
+228.0,Vitis_labrusca
+229.0,Nectarine#Nectarines
+230.0,
+231.0,Capsicum_baccatum
+232.0,Capsicum_chinense
+235.0,Oryza_rufipogon
+237.0,Swiss_chard
+238.0,Thymus_pulegioides
+239.0,
+241.0,Welsh_onion
+242.0,Hard_wheat
+244.0,Rocket_(salad)
+245.0,Carrot
+247.0,
+249.0,Apium_graveolens_var._secalinum
+250.0,
+254.0,Chicory
+258.0,Kai-lan
+261.0,Daikon
+262.0,
+263.0,
+266.0,Salvia_elegans
+267.0,Ribes glandulosum
+284.0,Winter squash
+287.0,Alfalfa
+289.0,Amaranth
+292.0,Pyrus pyrifolia
+293.0,Atlantic herring
+294.0,Atlantic mackerel
+296.0,Pollachius pollachius
+302.0,Beluga_whale
+303.0,Bison
+307.0,Blue mussel
+310.0,Wild boar
+312.0,Breadfruit
+321.0,Butternut squash
+323.0,Cardoon
+326.0,Carob
+327.0,Common carp
+328.0,Cassava
+333.0,Salvia_hispanica
+334.0,Chicken
+335.0,Chinese_broccoli
+341.0,Coconut
+343.0,Atlantic_cod
+344.0,Common octopus
+345.0,Valerianella locusta
+346.0,Cottonseed
+348.0,Malus
+355.0,Rumex
+358.0,Mallard_duck
+359.0,Dungeness crab
+360.0,Durian
+364.0,Elk
+365.0,Emu
+368.0,Castanea sativa
+372.0,Ginkgo biloba
+373.0,Greylag_goose
+375.0,Greenland halibut
+378.0,Guinea_hen
+379.0,Haddock
+383.0,Horse
+386.0,Lablab purpureus
+392.0,Jerusalem artichoke
+394.0,Jute
+399.0,Chenopodium album
+400.0,Katharina tunicata
+403.0,Lingcod
+404.0,American lobster
+408.0,White_lupine
+420.0,White_mustard
+427.0,Okra
+433.0,Pacific_oyster
+435.0,Velvet Scoter
+436.0,Capsicum_frutescens
+439.0,Northern_pike
+441.0,Colorado_Pinyon
+447.0,Opium_poppy
+450.0,Quinoa
+451.0,European_rabbit
+454.0,Rainbow trout
+456.0,Rose hip
+457.0,Roselle_(plant)
+460.0,Pink_salmon
+462.0,Coho_salmon
+463.0,Sockeye_salmon
+465.0,Atlantic salmon
+469.0,Pouteria sapota
+479.0,Sesbania_bispinosa
+483.0,Sheep
+494.0,
+499.0,Taro
+505.0,Meleagris_gallopavo
+506.0,Cattle
+508.0,Alaska pollock
+525.0,Albacore_tuna
+533.0,Snow_crab
+534.0,Black-eyed pea
+541.0,Domestic_goat
+549.0,Domestic pig
+550.0,Walrus
+552.0,Khorasan_wheat
+553.0,Vigna unguiculata subsp. sesquipedalis
+560.0,Jew%27s_ear
+561.0,Agaricus bisporus
+564.0,Wakame
+566.0,Epazote
+572.0,Rumex_arcticus
+577.0,Agave
+586.0,Cinnamon
+609.0,Pikeperch
+612.0,Pacific ocean perch
+616.0,Kombu
+621.0,Thunnus
+748.0,Hibiscus_tea
+797.0,Canola
+799.0,Cupuaçu
+800.0,Shea_tree
+879.0,Capsicum_pubescens
+880.0,Garlic
+881.0,Cabbage
+909.0,Capsicum_annuum
+910.0,Capsicum_annuum
+911.0,Capsicum_annuum
+912.0,Capsicum_annuum
+913.0,Italian sweet pepper
+914.0,Phaseolus_vulgaris
+915.0,Phaseolus vulgaris
+918.0,Kabocha
+,
