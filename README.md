@@ -7,6 +7,10 @@ Using a novel tool for metagenomic estimation of dietary intake (MEDI) developed
 **Data folder:** 
 has the combined food abundance output csv from running medi on metacardis projects(PRJEB37249 & PRJEB38742)
 some of the processed csv files from the metacardis paper published on cardiometabolic disease
-**Notebooks**
+
+**Notebooks:**
 the regression notebook has most of my work but its a little messy. It has everything from data processing to regressions to making plots. Theres also a plots noteboook and a CoVars notebook that are short and require certain csvs from the first notebook. The last notebook is where I calculate beta diversity of the diet ploted PCoA colored by different features and also beta diversity of the microbes and the metabolome. 
+
+**Rotation Presentation**
+In case it's easier to look at the presentation than the jupyter notebooks
 
